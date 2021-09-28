@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practice.SuperMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-28T12:19:06" hostname="VAJIYA" time="0.227">
+  <properties/>
+  <testcase name="addsAndRetrieveSuperMap_Success()" classname="practice.SuperMapTest" time="0.227"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
